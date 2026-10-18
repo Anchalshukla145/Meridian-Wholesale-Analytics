@@ -4,7 +4,7 @@ Creates enterprise-grade Plotly interactive charts with consistent color palette
 slate-900 typography, subtle gridlines, and clean responsive layouts.
 """
 
-from typing import Dict, List, Optional
+from typing import Any,Dict, List, Optional
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
